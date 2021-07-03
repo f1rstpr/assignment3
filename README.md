@@ -38,8 +38,6 @@ Implement any of the following features to improve the application:
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
 
 [User logging in + Views]
 ![](https://github.com/f1rstpr/assignment3/blob/main/frontend/gifs/userLogin.gif)
