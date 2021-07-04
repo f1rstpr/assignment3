@@ -39,23 +39,35 @@ Implement any of the following features to improve the application:
 ### Walkthrough Video
 
 
-[User logging in + Views]
+[**User logging in + Views**]
 ![](https://github.com/f1rstpr/assignment3/blob/main/frontend/gifs/userLogin.gif)
 
-[User logging in and adding an activity]
+[**User logging in and adding an activity**]
 ![](https://github.com/f1rstpr/assignment3/blob/main/frontend/gifs/userAddToNutrition.gif)
 
-[User registration + First time adding]
+[**User registration + First time adding**]
 ![](https://github.com/f1rstpr/assignment3/blob/main/frontend/gifs/userRegister.gif)
 
-[Not logged in - Unauthenicated views]
+[**Not logged in - Unauthenicated views**]
 ![](https://github.com/f1rstpr/assignment3/blob/main/frontend/gifs/userNotLoggedIn.gif)
 
-[Error handling - Forms]
+[**Error handling - Forms**]
 ![](https://github.com/f1rstpr/assignment3/blob/main/frontend/gifs/ErrorHandling.gif)
 
-[Network tab, each item has its own id]
+[**Network tab, each item has its own id**]
 ![](https://github.com/f1rstpr/assignment3/blob/main/frontend/gifs/networj.png)
+
+
+## API security middleware
+
+[**Logging in - User gets token after logging in. Can use that token to get info about themselves and also info their activities**]
+![](https://github.com/f1rstpr/assignment3/blob/main/frontend/gifs/securityMiddleware.gif)
+
+[**Registration - User gets token after registration. Can use that token to get info about themselves also info their activities.**]
+![](https://github.com/f1rstpr/assignment3/blob/main/frontend/gifs/securityMiddleware2.gif)
+
+[**Unauthorized Error - If an invalid token is provided while trying to fetch info about themselves or their activities, an Unauthorized error is thrown.**]
+![](https://github.com/f1rstpr/assignment3/blob/main/frontend/gifs/securityMiddleware3.gif)
 
 ### Reflection
 
